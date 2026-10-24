@@ -1,0 +1,8 @@
+*.pem
+*.key
+*.pfx
+*.p12
+.env*
+*.exe
+*.zip
+.DS_Store
