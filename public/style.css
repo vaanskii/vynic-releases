@@ -28,3 +28,5 @@ footer{border-top:1px solid var(--line);font-size:14px}
 .skip:focus{top:12px}
 #main{scroll-margin-top:24px}
 @media(max-width:600px){main{padding:40px 0}section{padding:24px}dl{grid-template-columns:1fr;gap:16px}header{font-size:14px}footer{align-items:flex-start;flex-direction:column;gap:12px}}
+
+.download{display:inline-block;background:var(--plum);color:#fff;border-radius:8px;padding:13px 22px;font-weight:650;text-decoration:none;line-height:1.5}.download:hover{background:#5f3a65;color:#fff}.download-note{font-size:14px;color:#625d57}li{margin:12px 0;max-width:720px}ol{padding-left:24px}
