@@ -1,3 +1,0 @@
-11bc81f360d8d33045f20001b094c738e56292119697752ca852817a0a1fe21b  VynicEdge-1.0.0.16-windows-amd64.zip
-0cb2b8feb21b5f31b60ee736bd0bfae0a06e90c920ab292afca8c955ad6d6d3e  VynicPOS-1.0.0-build16-windows-amd64.zip
-2809ab6c9c83bda44c34ffc418b3bbb3cc5fd9fde974a41b0bda989268ca72ca  VynicSetup-1.0.0-build16-beta.exe
